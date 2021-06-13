@@ -309,7 +309,7 @@ Then we talked about databases in general and what they are used for.
 __Benefits of DB__:
 * no loss of data
 * access for several users possible
-* structured deposit of data;
+* structured deposit of data
 
 There are nine requirements for DB's, the so-called *Codd’s rules*.
 
