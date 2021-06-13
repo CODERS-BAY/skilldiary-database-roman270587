@@ -296,3 +296,34 @@ You can create tables by assembling a list of words and dividing them with hyphe
     </td>
   </tr>
 </table>
+
+
+# DIARY
+
+## 11.6.2021
+
+First we introduced ourselves and got an impression of the course.
+
+Then we talked about databases in general and what they are used for.
+
+__Benefits of DB__:
+* no loss of data
+* access for several users possible
+* structured deposit of data;
+
+There are nine requirements for DB's, the so-called *Codd’s rules*.
+
+We were told about the __Entity Relationship Model (ERM)__ which draws objects (entities), the relationships between one to another and their attributes.
+
+The *Chen-Notation* is the graphical notation of the ERM named after it’s inventor Peter Chen.
+
+Values are described with data types like INT, CHAR, TIME,...
+
+Attributes describe entities or relations and have to be assigned with a data type.
+
+Key attributes identify the entities. If there are more than one the __primary key has to be underlined.__
+
+Relations differ in their degree which can be binary (two entities), ternary (three entities) or unary (one entity).
+
+__Cardinalities__ describe relations more detailed, like a mother (1) and child (N) which means a child can only have one mother, but a mother can have more children (= 1:N). Further forms are 1:1, N:1 and M:N.
+
