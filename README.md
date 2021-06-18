@@ -327,3 +327,14 @@ Relations differ in their degree which can be binary (two entities), ternary (th
 
 __Cardinalities__ describe relations more detailed, like a mother (1) and child (N) which means a child can only have one mother, but a mother can have more children (= 1:N). Further forms are 1:1, N:1 and M:N.
 
+## 18.6.2021
+
+First we talked about our homework from last week, which was an ERM about Codersbay.
+
+Therefore we corrected the example of one of our colleagues.
+
+Then the upcoming module system of the course was explained to us and we planned the course of our process though the next months on our own.
+
+At last we started with an ERM about a hotel.
+
+
