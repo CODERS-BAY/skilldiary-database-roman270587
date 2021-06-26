@@ -337,4 +337,31 @@ Then the upcoming module system of the course was explained to us and we planned
 
 At last we started with an ERM about a hotel.
 
+## 25.6.2021
+
+At first we repeated the subject matter from our previous lessons.
+
+Then Matthias taught us about the __(min, max)-Notation__ which gives the relations more information and limits instances with minimum and maximum values.
+
+With __foreign keys__ of a table can be used the refer to another (or the same) table.
+
+A goal for relation models is to avoid redundancies which costs unnecessary storage space and is harder to maintain.
+
+Another goal is to avoid anomalies which can be:
+
+* update anomaly
+* insertion anomaly
+* deletion anomaly
+
+__Normal forms__ define properties of relation schemas, prohibit certain combinations in relations and should avoid redundancies and anomalies.
+
+There are three forms:
+
+__1NF:__ A relation schema is in 1. normal form if its ranges of values are atomic.
+
+__2NF:__ A relation schema is in 2nd normal form if it is in 1st is normal form and each non-key attribute is fully functional dependent from primary key.
+
+__3NF:__ A relation scheme is in 3rd normal form if it is in 2nd normal form, and no non-key attribute dated primary key is transitively dependent.
+
+In the end we did some exercises on our own.
 
