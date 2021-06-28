@@ -343,7 +343,7 @@ At first we repeated the subject matter from our previous lessons.
 
 Then Matthias taught us about the __(min, max)-Notation__ which gives the relations more information and limits instances with minimum and maximum values.
 
-With __foreign keys__ of a table can be used the refer to another (or the same) table.
+__Foreign keys__ of a table can be used to refer to another (or the same) table.
 
 A goal for relation models is to avoid redundancies which costs unnecessary storage space and is harder to maintain.
 
@@ -357,9 +357,9 @@ __Normal forms__ define properties of relation schemas, prohibit certain combina
 
 There are three forms:
 
-__1NF:__ A relation schema is in 1. normal form if its ranges of values are atomic.
+__1NF:__ A relation schema is in 1. normal form if it's ranges of values are atomic.
 
-__2NF:__ A relation schema is in 2nd normal form if it is in 1st is normal form and each non-key attribute is fully functional dependent from primary key.
+__2NF:__ A relation schema is in 2nd normal form if it is in 1st normal form and each non-key attribute is fully functional dependent from primary key.
 
 __3NF:__ A relation scheme is in 3rd normal form if it is in 2nd normal form, and no non-key attribute dated primary key is transitively dependent.
 
