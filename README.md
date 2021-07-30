@@ -372,18 +372,22 @@ __CW27 - JAVA__
 Mon-Tue: Unit testing (Apps: Person management, dictionary, calculator)
 Tue-Fri: Object-oriented programming I (Apps: Person management, linked list part I)
 ```
-
 __CW28: JAVA__
+```
 Mon-Thu: Object-oriented programming II (Apps: Linked list part II)
 Fri: Inheritance (Apps: RP game part I)
-
+```
 __CW29: JAVA__
+```
 Mon-Tue: Inheritance (Apps: RP game part I, cars)
 Tue-Fri: File input/output & exceptions (Apps: RP game part II)
-
+```
 __CW30: Databases__
+```
 Mon-Thu: SQL1 - insert, update, delete, select (Exercises: Airways, HR department I, HR department II)
 Fri: SQLII - subselect, join (Exercises: Tennis)
-
+```
 __CW31: Databases__
+```
 Mon-Fri: SQL2 - subselect, join (Exercises: Tennis, HR department)
+```
