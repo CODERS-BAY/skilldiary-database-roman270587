@@ -375,7 +375,7 @@ Tue-Fri: Object-oriented programming I (Apps: Person management, linked list par
 __CW28: Java__
 ```
 Mon-Thu: Object-oriented programming II (Apps: Linked list part II)
-Fri: Inheritance (Apps: RP game part I)
+Thu-Fri: Inheritance (Apps: RP game part I)
 ```
 __CW29: Java__
 ```
