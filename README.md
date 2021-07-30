@@ -369,8 +369,8 @@ In the end we did some exercises on our own.
 
 __CW27: Java__
 ```
-Mon-Tue: Unit testing (Apps: Person management, dictionary, calculator)
-Tue-Fri: Object-oriented programming I (Apps: Person management, linked list part I)
+Mon-Tue: Unit testing (Apps: Person management, Dictionary, Calculator)
+Tue-Fri: Object-oriented programming I (Apps: Person management, Linked list part I)
 ```
 __CW28: Java__
 ```
@@ -379,7 +379,7 @@ Thu-Fri: Inheritance (Apps: RP game part I)
 ```
 __CW29: Java__
 ```
-Mon-Tue: Inheritance (Apps: RP game part I, cars)
+Mon-Tue: Inheritance (Apps: RP game part I, Cars)
 Tue-Fri: File input/output & exceptions (Apps: RP game part II)
 ```
 __CW30: Databases__
