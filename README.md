@@ -298,7 +298,7 @@ You can create tables by assembling a list of words and dividing them with hyphe
 </table>
 
 
-# DIARY
+<div align="center"># DIARY</div>
 
 ## 11.6.2021
 
