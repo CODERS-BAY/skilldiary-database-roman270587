@@ -298,7 +298,7 @@ You can create tables by assembling a list of words and dividing them with hyphe
 </table>
 
 
-<div align="center"># DIARY</div>
+# DIARY
 
 ## 11.6.2021
 
@@ -367,9 +367,11 @@ In the end we did some exercises on our own.
 
 # REPORT
 
+```
 __CW27 - JAVA__
 Mon-Tue: Unit testing (Apps: Person management, dictionary, calculator)
 Tue-Fri: Object-oriented programming I (Apps: Person management, linked list part I)
+```
 
 __CW28: JAVA__
 Mon-Thu: Object-oriented programming II (Apps: Linked list part II)
