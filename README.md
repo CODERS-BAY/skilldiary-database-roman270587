@@ -367,17 +367,17 @@ In the end we did some exercises on our own.
 
 # REPORT
 
-__CW27 - JAVA__
+__CW27 - Java__
 ```
 Mon-Tue: Unit testing (Apps: Person management, dictionary, calculator)
 Tue-Fri: Object-oriented programming I (Apps: Person management, linked list part I)
 ```
-__CW28: JAVA__
+__CW28: Java__
 ```
 Mon-Thu: Object-oriented programming II (Apps: Linked list part II)
 Fri: Inheritance (Apps: RP game part I)
 ```
-__CW29: JAVA__
+__CW29: Java__
 ```
 Mon-Tue: Inheritance (Apps: RP game part I, cars)
 Tue-Fri: File input/output & exceptions (Apps: RP game part II)
