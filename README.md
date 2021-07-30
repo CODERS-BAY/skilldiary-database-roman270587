@@ -367,8 +367,8 @@ In the end we did some exercises on our own.
 
 # REPORT
 
-```
 __CW27 - JAVA__
+```
 Mon-Tue: Unit testing (Apps: Person management, dictionary, calculator)
 Tue-Fri: Object-oriented programming I (Apps: Person management, linked list part I)
 ```
