@@ -389,5 +389,9 @@ Thu-Fri: SQLII - subselect, join (Exercises: Tennis)
 ```
 __CW31: Databases__
 ```
-Mon-Fri: SQLII - subselect, join (Exercises: Tennis, HR department III)
+Mon-Fri: SQLII - subselect, join (Exercises: Tennis, Parts, HR department I, HR department II)
+```
+__CW32: __
+```
+
 ```
