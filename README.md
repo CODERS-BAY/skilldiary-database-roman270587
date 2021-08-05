@@ -391,7 +391,7 @@ __CW31: Databases__
 ```
 Mon-Fri: SQLII - subselect, join (Exercises: Tennis, Parts, HR department I, HR department II)
 ```
-__CW32: __
+__CW32:__
 ```
 
 ```
