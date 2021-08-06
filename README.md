@@ -391,9 +391,9 @@ __CW31: Databases__
 ```
 Mon-Fri: SQLII - subselect, join (Exercises: Tennis, Parts, HR department I, HR department II)
 ```
-__CW32:__
+__CW32: Web__
 ```
-
+Mon-Fri: JavaScript I - introduction, loops, branches, functions, variables, error handling, browser events, window object, DOM, edit forms, predefined objects
 ```
 __CW33:__
 ```
