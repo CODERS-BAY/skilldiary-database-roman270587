@@ -395,9 +395,10 @@ __CW32: Web__
 ```
 Mon-Fri: JavaScript I - introduction, loops, branches, functions, variables, error handling, browser events, window object, DOM, edit forms, predefined objects
 ```
-__CW33:__
+__CW33: Web__
 ```
-
+Mon: JavaScript I - introduction, loops, branches, functions, variables, error handling, browser events, window object, DOM, edit forms, predefined objects
+Tue-Fri: JavaScript II - jQuery & dara storage
 ```
 __CW34:__
 ```
