@@ -393,14 +393,14 @@ Mon-Fri: SQLII - subselect, join (Exercises: Tennis, Parts, HR department I, HR 
 ```
 __CW32: Web__
 ```
-Mon-Fri: JavaScript I - introduction, loops, branches, functions, variables, error handling, browser events, window object, DOM, edit forms, predefined objects
+Mon-Fri: JavaScript I - introduction, loops, branches, functions, variables, error handling, browser events, window object, DOM, edit forms, predefined objects (Exercises: JavaScript text page I, JavaScript test page II, Rock Paper Scissors)
 ```
 __CW33: Web__
 ```
-Mon: JavaScript I - introduction, loops, branches, functions, variables, error handling, browser events, window object, DOM, edit forms, predefined objects
-Tue-Fri: JavaScript II - jQuery & dara storage
+Mon: JavaScript I - introduction, loops, branches, functions, variables, error handling, browser events, window object, DOM, edit forms, predefined objects (Exercises: Black Jack)
+Tue-Fri: JavaScript II - jQuery & dara storage (Exercises: jQuery test page, Cookie test page I, Cookie test page II, The Math Quiz)
 ```
-__CW34:__
+__CW34: Web__
 ```
 
 ```
