@@ -402,7 +402,7 @@ Tue-Fri: JavaScript II - jQuery & dara storage (Exercises: jQuery test page, Coo
 ```
 __CW34: Web__
 ```
-Mon - Fri: Boorstrap - introduction | PHP - introduction, link with HTML, variables, operations, arrays, loops, functions incl. transfer- and return values, read and save data
+Mon-Fri: Boorstrap - introduction | PHP - introduction, link with HTML, variables, operations, arrays, loops, functions incl. transfer- and return values, read and save data
 ```
 __CW35:__
 ```
