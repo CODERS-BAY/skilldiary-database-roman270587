@@ -403,7 +403,7 @@ Tue-Fri: JavaScript II - jQuery & dara storage (Exercises: jQuery test page, Coo
 __CW34: Web__
 ```
 Mon: Boorstrap - introduction
-Mon-Wed: PHP I - introduction, link with HTML, variables, operations, arrays, loops, functions incl. transfer- and return values, read and save data (Exercises: PHP test page I, PHP test page II, PHP test page III, Competence check)
+Mon-Wed: PHP I - introduction, link with HTML, variables, operations, arrays, loops, functions incl. transfer- and return values, read and save data (Exercises: PHP test page I, PHP test page II, PHP test page III)
 Thu: Career orientation - learning techniques
 Fri: PHP I - PHP I - introduction, link with HTML, variables, operations, arrays, loops, functions incl. transfer- and return values, read and save data (Exercises: Competence check)
 ```
