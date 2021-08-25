@@ -405,7 +405,7 @@ __CW34: Web__
 Mon: Boorstrap - introduction
 Mon-Wed: PHP I - introduction, link with HTML, variables, operations, arrays, loops, functions incl. transfer- and return values, read and save data (Exercises: PHP test page I, PHP test page II, PHP test page III)
 Thu: Career orientation - learning techniques
-Fri: PHP I - PHP I - introduction, link with HTML, variables, operations, arrays, loops, functions incl. transfer- and return values, read and save data (Exercises: Competence check)
+Fri: PHP I - introduction, link with HTML, variables, operations, arrays, loops, functions incl. transfer- and return values, read and save data (Exercises: Competence check)
 ```
 __CW35:__
 ```
