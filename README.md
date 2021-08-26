@@ -384,12 +384,12 @@ Tue-Fri: File input/output & exceptions (Apps: RP game part II)
 ```
 __CW30: Databases__
 ```
-Mon-Thu: SQLI - insert, update, delete, select (Exercises: Airways, HR department I, HR department II)
-Thu-Fri: SQLII - subselect, join (Exercises: Tennis)
+Mon-Thu: SQL I - insert, update, delete, select (Exercises: Airways, HR department I, HR department II)
+Thu-Fri: SQL II - subselect, join (Exercises: Tennis)
 ```
 __CW31: Databases__
 ```
-Mon-Fri: SQLII - subselect, join (Exercises: Tennis, Parts, HR department I, HR department II)
+Mon-Fri: SQL II - subselect, join (Exercises: Tennis, Parts, HR department I, HR department II)
 ```
 __CW32: Web__
 ```
