@@ -409,7 +409,7 @@ Fri: PHP I - introduction, link with HTML, variables, operations, arrays, loops,
 ```
 __CW35:__
 ```
-
+Mon-Fri: PHP II - data access with MySQLi & PDO (Exercices: Ticketing System, Customer Management System)
 ```
 __CW36:__
 ```
