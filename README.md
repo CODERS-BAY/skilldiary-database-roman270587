@@ -407,7 +407,7 @@ Mon-Wed: PHP I - introduction, link with HTML, variables, operations, arrays, lo
 Thu: Career orientation - learning techniques
 Fri: PHP I - introduction, link with HTML, variables, operations, arrays, loops, functions incl. transfer- and return values, read and save data (Exercises: Competence check)
 ```
-__CW35:__
+__CW35: Web__
 ```
 Mon-Fri: PHP II - data access with MySQLi & PDO (Exercices: Ticketing System, Customer Management System)
 ```
