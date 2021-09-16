@@ -415,7 +415,7 @@ __CW36: Web__
 ```
 Mon-Fri: PHP II - data access with MySQLi & PDO (Exercices: Customer Management System)
 ```
-__CW37:__
+__CW37: Web__
 ```
 Mon-Fri: PHP II - data access with MySQLi & PDO (Exercices: Customer Management System)
 ```
