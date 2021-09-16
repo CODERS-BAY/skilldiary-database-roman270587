@@ -417,7 +417,7 @@ Mon-Fri: PHP II - data access with MySQLi & PDO (Exercices: Customer Management 
 ```
 __CW37:__
 ```
-
+Mon-Fri: PHP II - data access with MySQLi & PDO (Exercices: Customer Management System)
 ```
 __CW38:__
 ```
