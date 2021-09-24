@@ -369,18 +369,18 @@ In the end we did some exercises on our own.
 
 __CW27: Java__
 ```
-Mon-Tue: Unit testing (Apps: Person management, Dictionary, Calculator)
-Tue-Fri: Object-oriented programming I (Apps: Person management, Linked list part I)
+Mon-Tue: Unit testing (Exercises: Person management, Dictionary, Calculator)
+Tue-Fri: Object-oriented programming I (Exercises: Person management, Linked list part I)
 ```
 __CW28: Java__
 ```
-Mon-Thu: Object-oriented programming II (Apps: Linked list part II)
-Thu-Fri: Inheritance (Apps: RP game part I)
+Mon-Thu: Object-oriented programming II (Exercises: Linked list part II)
+Thu-Fri: Inheritance (Exercises: RP game part I)
 ```
 __CW29: Java__
 ```
-Mon-Tue: Inheritance (Apps: RP game part I, Cars)
-Tue-Fri: File input/output & exceptions (Apps: RP game part II)
+Mon-Tue: Inheritance (Exercises: RP game part I, Cars)
+Tue-Fri: File input/output & exceptions (Exercises: RP game part II)
 ```
 __CW30: Databases__
 ```
@@ -409,19 +409,19 @@ Fri: PHP I - introduction, link with HTML, variables, operations, arrays, loops,
 ```
 __CW35: Web__
 ```
-Mon-Fri: PHP II - data access with MySQLi & PDO (Exercices: Ticketing System, Encyclopedia, Customer Management System)
+Mon-Fri: PHP II - data access with MySQLi & PDO (Exercises: Ticketing System, Encyclopedia, Customer Management System)
 ```
 __CW36: Web__
 ```
-Mon-Fri: PHP II - data access with MySQLi & PDO (Exercices: Customer Management System)
+Mon-Fri: PHP II - data access with MySQLi & PDO (Exercises: Customer Management System)
 ```
 __CW37: Web__
 ```
-Mon-Fri: PHP II - data access with MySQLi & PDO (Exercices: Customer Management System)
+Mon-Fri: PHP II - data access with MySQLi & PDO (Exercises: Customer Management System)
 ```
-__CW38:__
+__CW38: Web__
 ```
-
+Mon-Fri: Basic knowledge - PHP OOP vs JS OOP, AJAX, JSON, nodeJS (Exercises: Black Jack)
 ```
 __CW39:__
 ```
