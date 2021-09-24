@@ -409,15 +409,15 @@ Fri: PHP I - introduction, link with HTML, variables, operations, arrays, loops,
 ```
 __CW35: Web__
 ```
-Mon-Fri: PHP II - data access with MySQLi & PDO (Exercises: Ticketing System, Encyclopedia, Customer Management System)
+Mon-Fri: PHP II - data access with MySQLi & PDO / Bootstrap (Exercises: Ticketing System, Encyclopedia, Customer Management System)
 ```
 __CW36: Web__
 ```
-Mon-Fri: PHP II - data access with MySQLi & PDO (Exercises: Customer Management System)
+Mon-Fri: PHP II - data access with MySQLi & PDO / Bootstrap (Exercises: Customer Management System)
 ```
 __CW37: Web__
 ```
-Mon-Fri: PHP II - data access with MySQLi & PDO (Exercises: Customer Management System)
+Mon-Fri: PHP II - data access with MySQLi & PDO / Bootstrap (Exercises: Customer Management System)
 ```
 __CW38: Web__
 ```
