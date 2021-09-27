@@ -393,7 +393,7 @@ SQL II - subselect, join (Exercises: Tennis, Parts, HR department I, HR departme
 ```
 __CW32: Web__
 ```
-Mon-Fri: JavaScript I - introduction, loops, branches, functions, variables, error handling, browser events, window object, DOM, edit forms, predefined objects (Exercises: JavaScript text page I, JavaScript test page II, Rock Paper Scissors)
+JavaScript I - introduction, loops, branches, functions, variables, error handling, browser events, window object, DOM, edit forms, predefined objects (Exercises: JavaScript text page I, JavaScript test page II, Rock Paper Scissors)
 ```
 __CW33: Web__
 ```
