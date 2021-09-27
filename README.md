@@ -431,7 +431,7 @@ __CW40: Internship__
 ```
 Web development - Reichl & Partner
 ```
-__CW41: Internship____
+__CW41: Internship__
 ```
 Web development - Reichl & Partner
 ```
