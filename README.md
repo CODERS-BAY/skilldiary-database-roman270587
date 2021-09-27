@@ -429,11 +429,11 @@ Basic knowledge - PHP OOP vs JS OOP, AJAX, JSON, nodeJS (Exercises: Black Jack)
 ```
 __CW40: Internship__
 ```
-Web development - Reichl & Partner
+Web development - Reichl & Partner GmbH
 ```
 __CW41: Internship__
 ```
-Web development - Reichl & Partner
+Web development - Reichl & Partner GmbH
 ```
 __CW42:__
 ```
