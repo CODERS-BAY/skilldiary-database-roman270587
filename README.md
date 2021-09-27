@@ -389,7 +389,7 @@ Thu-Fri: SQL II - subselect, join (Exercises: Tennis)
 ```
 __CW31: Databases__
 ```
-Mon-Fri: SQL II - subselect, join (Exercises: Tennis, Parts, HR department I, HR department II)
+SQL II - subselect, join (Exercises: Tennis, Parts, HR department I, HR department II)
 ```
 __CW32: Web__
 ```
@@ -409,31 +409,31 @@ Fri: PHP I - introduction, link with HTML, variables, operations, arrays, loops,
 ```
 __CW35: Web__
 ```
-Mon-Fri: PHP II - data access with MySQLi & PDO / Bootstrap (Exercises: Ticketing System, Encyclopedia, Customer Management System)
+PHP II - data access with MySQLi & PDO / Bootstrap (Exercises: Ticketing System, Encyclopedia, Customer Management System)
 ```
 __CW36: Web__
 ```
-Mon-Fri: PHP II - data access with MySQLi & PDO / Bootstrap (Exercises: Customer Management System)
+PHP II - data access with MySQLi & PDO / Bootstrap (Exercises: Customer Management System)
 ```
 __CW37: Web__
 ```
-Mon-Fri: PHP II - data access with MySQLi & PDO / Bootstrap (Exercises: Customer Management System)
+PHP II - data access with MySQLi & PDO / Bootstrap (Exercises: Customer Management System)
 ```
 __CW38: Web__
 ```
-Mon-Fri: Basic knowledge - PHP OOP vs JS OOP, AJAX, JSON, nodeJS (Exercises: Black Jack)
+Basic knowledge - PHP OOP vs JS OOP, AJAX, JSON, nodeJS (Exercises: Black Jack)
 ```
-__CW39:__
+__CW39: Web__
 ```
-
+Basic knowledge - PHP OOP vs JS OOP, AJAX, JSON, nodeJS (Exercises: Black Jack)
 ```
-__CW40:__
+__CW40: Internship__
 ```
-
+Web development - Reichl & Partner
 ```
-__CW41:__
+__CW41: Internship____
 ```
-
+Web development - Reichl & Partner
 ```
 __CW42:__
 ```
